@@ -53,7 +53,7 @@ function getFractions(messageStringWords){
 }
 
 // login to Discord with your app's token
-client.login('NzAzNTg2MDgxMjk5NDk2OTYx.XslfyA.BV9l3n3H8v-43uoXpJHrEJnepKQ');
+client.login('NzAzNTg2MDgxMjk5NDk2OTYx.XtV0fA.539c7Ye9GXVYU0fibOQPuwJb0k4');
 
 //_________________________________________________________
 function getMultipliedFractions(arr1, arr2){
